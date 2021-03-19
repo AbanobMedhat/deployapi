@@ -2,7 +2,7 @@ asgiref==3.2.7
 cycler==0.10.0
 Cython==0.29.17
 Django==3.0.6
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 imutils==0.5.3
 kiwisolver==1.2.0
 matplotlib==3.2.1
